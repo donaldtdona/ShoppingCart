@@ -1,0 +1,155 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.margin-for-stars{
+    margin-left: 13px;
+}
+
+
+.prices{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+}
+.firstprice{
+    color: red;
+    display: inline;
+}
+.otherprice{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 65px;
+    color: lightgrey;
+}
+.percentage{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    color: rgb(215, 220, 226);
+}
+
+.lightfont{
+    font-size: 15px;
+    font-family: Arial;
+    margin-left: 35px;
+    color: rgb(215, 220, 226);
+}
+.exclusive{
+    margin-left: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.colour{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.dot {
+    height: 30px;
+    width: 30px;
+    border-radius: 70%;
+    display: inline-block;
+    margin-right: 15px;
+  }
+  .c1{
+    background-color:red;
+  }
+  .c2{
+    background-color:rgb(53, 50, 212);
+  }
+  .c3{
+    background-color:green;
+  }
+  .c4{
+    background-color:yellowgreen;
+  }
+  .c5{
+    background-color:black;
+  }
+  .c6{
+    background-color:whitesmoke;
+  }
+  .c7{
+    background-color:blue;
+  }
+  .c8{
+    background-color:blueviolet;
+  }
+  .c9{
+    background-color:orange;
+  }
+  .c10{
+    background-color:orangered;
+  }
+  .c11{
+    background-color:olivedrab;
+  }
+  .c12{
+    background-color:royalblue;
+  }
+  .c13{
+    background-color:peru;
+  }
+  .c14{
+    background-color:rgb(243, 247, 10);
+  }
+  .c15{
+    background-color: orchid;
+  }
+  .c16{
+    background-color:#2e8b57;
+  }
+  .c17{
+    background-color:palegreen;
+  }
+  .c18{
+    background-color:mediumturquoise;
+  }
+  .last{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+  }
+  .body{
+    margin-left: 15px;
+  }
+  .details{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 10px;
+  }
+  .help{
+     text-align: left;
+  }
+  .button1{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px; 
+  }
+  .button2 {
+    background-color: black;
+    border: none;
+    color: white;
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px;
+  }
+  .button {border-radius: 28px;}
+  .content{
+      max-width: 550px;
+      margin: auto;
+  }
+
+  
